@@ -1,6 +1,9 @@
 
-# CS725 project 
-
+# CS725 Class Project 
+Team Members
+* Subhankar Nag (24D0373)
+* Ajinkya Naik (24D0370)
+* Mrityunjay Shukla (24D0363)
 ## Brain Tumor image segmentation using UNet++
 
 
