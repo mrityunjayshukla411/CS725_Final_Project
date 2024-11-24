@@ -1,0 +1,5 @@
+elasticdeform
+opencv-python
+torchvision
+torch
+tqdm
